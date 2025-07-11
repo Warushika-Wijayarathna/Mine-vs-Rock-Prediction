@@ -10,9 +10,6 @@ The dataset used is the **Sonar Dataset**, consisting of **208 instances**. Each
 -   **1 target label**:
     -   `'R'` for **Rock**
     -   `'M'` for **Mine**
-
-📥 You can download the dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)) or use the provided `sonar data.csv` file.
-
 ---
 
 ## 📁 Project Structure
