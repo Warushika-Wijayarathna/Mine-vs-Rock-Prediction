@@ -13,13 +13,11 @@ The dataset used is the **Sonar Dataset**, consisting of **208 instances**. Each
 ---
 
 ## 📁 Project Structure
-
+```
 ├── sonar data.csv                # Sonar dataset file
 ├── sonar_classification.ipynb   # Jupyter notebook for model training and evaluation
 └── README.md                    # Project documentation (you are here)
-
-
----
+```
 
 ## 📦 Dependencies
 
@@ -31,15 +29,16 @@ Ensure the following Python libraries are installed:
 
 You can install them using pip:
 
-```bash
+```
 pip install numpy pandas scikit-learn
-🚀 How to Run
-Open the Jupyter notebook sonar_classification.ipynb.
+```
+### 🚀 How to Run
+1. Open the Jupyter notebook sonar_classification.ipynb.
 
-Run each cell to load the data, preprocess it, train the model, and evaluate the results.
+2. Run each cell to load the data, preprocess it, train the model, and evaluate the results.
 
-✅ Model Output
+### ✅ Model Output
 The logistic regression model will output predictions indicating whether the sonar signal was reflected by a rock or a mine, along with evaluation metrics such as accuracy and a confusion matrix.
 
-🧠 Goal
+### 🧠 Goal
 This project demonstrates the application of a simple logistic regression model to a real-world binary classification problem, focusing on signal-based pattern recognition.
