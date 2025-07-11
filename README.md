@@ -1,5 +1,3 @@
-Markdown
-
 # 🪨 Sonar Data Classification
 
 This project implements a **Logistic Regression** model to classify sonar signals as either **Rocks** or **Mines** based on their frequency-based energy features.
